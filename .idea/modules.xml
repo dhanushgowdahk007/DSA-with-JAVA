@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA-with-JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA-with-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dhansuh/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/com.dhansuh/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA/com.DSA.iml" filepath="$PROJECT_DIR$/com.DSA/com.DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.dhansuh/com.dhansuh.iml" filepath="$PROJECT_DIR$/com.dhansuh/com.dhansuh.iml" />
     </modules>
   </component>

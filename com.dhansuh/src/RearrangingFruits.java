@@ -46,7 +46,7 @@ public class RearrangingFruits {
         }
 
         Collections.sort(excessBasket1);
-        Collections.sort(excessBasket2, Collections.reverseOrder());
+        excessBasket2.sort(Collections.reverseOrder());
 
         long cost = 0;
 
